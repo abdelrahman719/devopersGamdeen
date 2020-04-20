@@ -23,6 +23,7 @@
     
 }
 
+<<<<<<< HEAD
 
 /* start ahmedAbdElfatahAhmed  styling section  */
 
@@ -77,10 +78,30 @@ font-family: Arial,sans-serif;
     height: 0.2rem;
     background-color: #0078ff;
     margin-bottom: 2rem;
+=======
+/* start feid */
+
+.feid{
+    background-color: #00ffff4d;
+}
+.feid .card-deck{
+    padding: 40px;
+}
+.feid h5{
+    color: #dc3545;
+    font-size: 30px;
+    font-weight: bold;
+}
+.feid small{
+    color: #007bff !important;
+    font-size: 20px;
+    letter-spacing: 10px;
+>>>>>>> db424f0092acd74bd702c00756cfa00c81389dca
 }
 
 
 
+<<<<<<< HEAD
 .ahmedAbdElfatahAhmed-section .paragrap-collection
 {
     font-size: 1.25rem;
@@ -88,3 +109,6 @@ font-family: Arial,sans-serif;
 }
 
 /* End ahmedAbdElfatahAhmed  styling section  */
+=======
+/* end feid */
+>>>>>>> db424f0092acd74bd702c00756cfa00c81389dca
