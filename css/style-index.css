@@ -22,3 +22,26 @@
     color: brown;
     
 }
+
+/* start feid */
+
+.feid{
+    background-color: #00ffff4d;
+}
+.feid .card-deck{
+    padding: 40px;
+}
+.feid h5{
+    color: #dc3545;
+    font-size: 30px;
+    font-weight: bold;
+}
+.feid small{
+    color: #007bff !important;
+    font-size: 20px;
+    letter-spacing: 10px;
+}
+
+
+
+/* end feid */
